@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mathieu @MathieuNav
 - 👀 I’m interested in becoming a professional programmer
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on projects for beginners (HTML/CSS, basic JS)
 - 📫 LinkedIn:  www.linkedin.com/in/mathieu-navajas-b52154222
 
 <!---
