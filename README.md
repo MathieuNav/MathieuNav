@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mathieu @MathieuNav
-- 👀 I’m interested in becoming a professional programmer
+- 👀 I’m interested in working in IT, providing support, learning new skills, and helping others.
 - 📫 LinkedIn:  www.linkedin.com/in/mathieu-navajas-b52154222
 
 <!---
